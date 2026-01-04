@@ -27,4 +27,4 @@ You can run this project locally to test question pairs. The system uses a **Ran
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mithilesh-cloud/nlp-semantic-quora.git](https://github.com/mithilesh-cloud/nlp-semantic-quora.git)
+   git clone https://github.com/mithilesh-cloud/nlp-semantic-quora.git
