@@ -1,0 +1,6 @@
+venv/
+train.csv
+sampled_data.csv
+final_featured_data.csv
+__pycache__/
+.streamlit/
